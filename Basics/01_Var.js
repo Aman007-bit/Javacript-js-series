@@ -6,7 +6,7 @@ let accountCity = "jaipur"
 // because of issue in scope block and functional block
 var accounEmail  = "Aman@gmail.com"
 
-// when we do not know the values, only need to reserve memory for this var,
+// when we do not assign the values, only need to reserve memory for this var,
 // for future use and now its give us "Undefined Value".
 let accounState;
 
